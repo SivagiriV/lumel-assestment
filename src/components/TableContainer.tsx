@@ -9,8 +9,6 @@ import {
   Paper,
   TextField,
   Button,
-  Typography,
-  Stack,
 } from "@mui/material";
 import type { RowData } from "../data/initialData";
 import { applyAllocation } from "../utils";
