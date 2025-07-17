@@ -69,5 +69,5 @@ export default tseslint.config([
 
 
 hosted link for viewing
-'https://sivagiriv.github.io/lumel-assestment/'
+'https://lumel-assestment-y98u.vercel.app/'
 ```
