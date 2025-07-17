@@ -5,7 +5,7 @@ import {
   CssBaseline,
   Container,
 } from "@mui/material";
-import HierarchyTable from "./components/Tablecontainer";
+import HierarchyTable from "./components/heirarchytable";
 import type { RowData } from "./data/initialData";
 import { tableData } from "./data/initialData";
 
